@@ -22,7 +22,7 @@ Vanaf 27 juli 2021 barst het Viking lustrumjaar los! Verwacht een jaar tjokvol m
 | Mei | Kerkebootroeien <br /> Singel-puzzeltocht |
 | Juni | Eind-BBQ <br /> Vlootschouw | 
 
-![plaatje kalender](concept-kalender.png)
+![plaatje kalender](concept-kalender-2.png)
 
 ![dit is een test](https://vikinglustrum.nl/kalender/concept-kalender.png)
 
