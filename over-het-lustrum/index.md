@@ -3,8 +3,6 @@ layout: default
 description: kalender
 ---
 
-# Hoofdstuk 1
+## 115 jaar Viking!
 
-## Hoofdstuk 2
-
-### Hoofdstuk 3
+Al 115 jaar lang komen roeiers in Utrecht samen bij URV Viking om te genieten van de roeisport. Om met elkaar te trainen, teams te vormen, elkaar uit te dagen, 
