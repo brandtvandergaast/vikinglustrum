@@ -26,6 +26,8 @@ Vanaf 27 juli 2021 barst het Viking lustrumjaar los! Verwacht een jaar tjokvol m
 
 ![dit is een test](https://vikinglustrum.nl/kalender/concept-kalender.png)
 
+![plaatje roeipak](pak-viking-website-lustrum.png)
+
 
 
 
