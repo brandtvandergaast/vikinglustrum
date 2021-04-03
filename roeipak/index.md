@@ -13,7 +13,7 @@ De kleding is te bestellen van 29 maart t/m 30 april. Daarna zal de kleding in p
 
 Om te bestellen, klik op de Roeigoed-link hierboven of het plaatje hieronder.
 
-![plaatje roeipak](pak-viking-website-lustrum.png)(https://www.roeigoed.nl/viking/c557)
+[![plaatje roeipak](pak-viking-website-lustrum.png)](https://www.roeigoed.nl/viking/c557)
 
 
 
