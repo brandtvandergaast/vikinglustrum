@@ -5,7 +5,7 @@ De speciale lustrumroeikleding is ondertussen te bestellen bij Roeigoed. Klik op
 
 ![roeipak video](fieke-roeipak.mp4)
 
-<video width="500">
+<video width="500" controls>
       <source src="fieke-roeipak.mp4" type="video/mp4">
       <p>Your browser does not support the video element.</p>
 </video>
