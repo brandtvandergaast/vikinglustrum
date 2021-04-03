@@ -6,6 +6,8 @@ $header-bg-color: #545454;
 $header-bg-color-secondary: #545454;
 $section-headings-color: #009361;
 
+@import "{{ site.theme }}";
+
   .btn {
     color: #0000ff;
     border-color: #009361; 
@@ -18,6 +20,3 @@ $section-headings-color: #009361;
     background-color: #7c940ea1;
     border-color: #009361;
   }
-
-
-@import "{{ site.theme }}";
