@@ -9,6 +9,4 @@ Al 115 jaar lang komen roeiers in Utrecht samen bij URV Viking om te genieten va
 
 Dus zet je schrap voor dit bijzondere jubileumjaar dat begint op 27 juli 2021! 
 
-![plaatje Hart van Holland](hart-van-holland.png)
-
 ![plaatje bootsman](bootsman.png) 
