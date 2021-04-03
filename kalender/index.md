@@ -7,6 +7,6 @@ description: kalender
 
 Vanaf 27 juli barst het Viking lustrumjaar los. Verwacht een jaar tjokvol met feesten, wedstrijden, reünies, tochten, en andere bezigheden in en op het water. Zie hieronder de voorlopige concept-kalender. Wijzigingen voorbehouden!
 
-![plaatje kalender](https://vikinglustrum.nl/kalender/concept-kalender.png)
+![plaatje kalender](concept-kalender.png)
 
 
