@@ -5,6 +5,11 @@ De speciale lustrumroeikleding is ondertussen te bestellen bij Roeigoed. Klik op
 
 ![roeipak video](fieke-roeien.mp4)
 
+<video width="800">
+      <source src="fieke-roeien.mp4" type="video/mp4">
+      <p>Your browser does not support the video element.</p>
+</video>
+
 ## Welkom!
 
 Welkom op de lustrumwebsite van URV Viking! Hier vindt u informatie over speciale happenings die plaats zullen vinden in dit speciale jubileumjaar, 2021. URV Viking bestaat op 27 juli maar liefst honderdvijftien jaar! Dat verdient een pluim en daarom pakken we vanaf 27 juli groots uit!
