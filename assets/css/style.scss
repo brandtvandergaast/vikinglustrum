@@ -9,14 +9,14 @@ $section-headings-color: #009361;
 @import "{{ site.theme }}";
 
   .btn {
-    color: #0000ff;
+    color: #009361;
     border-color: #009361; 
-    // background-color: #008CBA;
+    // background-color: #000000;
   } 
 
   .btn:hover {
-    color: #0bb6e1cc;
+    color: #000000;
     text-decoration: none;
-    background-color: #7c940ea1;
-    border-color: #009361;
+    background-color: #000000;
+    border-color: #000000;
   }
