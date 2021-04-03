@@ -3,8 +3,10 @@ layout: default
 description: kalender
 ---
 
-# Hoofdstuk 1
+## Concept kalender
 
-## Hoofdstuk 2
+Vanaf 27 juli barst het Viking lustrumjaar los. Verwacht een jaar tjokvol met feesten, wedstrijden, reünies, tochten, en andere bezigheden in en op het water. Zie hieronder de voorlopige concept-kalender. Wijzigingen voorbehouden!
 
-### Hoofdstuk 3
+[image](https://vikinglustrum.nl/kalender/concept-kalender.png)
+
+
