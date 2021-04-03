@@ -6,4 +6,18 @@ $header-bg-color: #545454;
 $header-bg-color-secondary: #545454;
 $section-headings-color: #009361;
 
+  .btn {
+    color: #0000ff;
+    border-color: #009361; 
+    // background-color: #008CBA;
+  } 
+
+  .btn:hover {
+    color: #0bb6e1cc;
+    text-decoration: none;
+    background-color: #7c940ea1;
+    border-color: #009361;
+  }
+
+
 @import "{{ site.theme }}";
