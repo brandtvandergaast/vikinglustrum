@@ -13,6 +13,5 @@ De kleding is te bestellen van 29 maart t/m 30 april, daarna zal de kleding in p
 
 ![plaatje roeipak](pak-viking-website-lustrum.png)
 
-![plaatje kalender](concept-kalender-2.png)
 
 

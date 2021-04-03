@@ -1,3 +1,12 @@
+
+## Welkom!
+
+Welkom op de lustrumwebsite van URV Viking! Hier vindt u informatie over speciale happenings die plaats zullen vinden in dit speciale jubileumjaar. URV Viking bestaat op 27 juli 2021 maar liefst 115 jaar. Dat verdient een pluim en daarom pakken we vanaf 27 juli groot uit!
+
+Stay tuned!
+
+<!--
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/brandtvandergaast/vikinglustrum/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -10,18 +19,6 @@ Hier test ik even linkjes:
 [roeipak](https://vikinglustrum.nl/roeipak/)
 [kalender](https://vikinglustrum.nl/kalender/)
 [over het lustrum](https://vikinglustrum.nl/over-het-lustrum/)
-
-### Agenda
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### Activiteiten
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-### Bezigheden
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 ### Markdown
 
@@ -54,3 +51,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+-->
+
+
