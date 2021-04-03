@@ -2,8 +2,8 @@
 ---
 
 $header-heading-color: #fff !default;
-$header-bg-color: #545454;
-$header-bg-color-secondary: #545454;
+$header-bg-color: #fafafa;
+$header-bg-color-secondary: #fafafa;
 $section-headings-color: #009361;
 
 @import "{{ site.theme }}";
@@ -17,6 +17,6 @@ $section-headings-color: #009361;
   .btn:hover {
     color: #000000;
     text-decoration: none;
-    background-color: #000000;
+    // background-color: #000000;
     border-color: #000000;
   }
