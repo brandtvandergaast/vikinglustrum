@@ -38,8 +38,6 @@ $section-headings-color: #009361;
   }
 
   .page-header {
-    border-color: #009361 red;
-
     @include large {
       padding: 3rem 6rem;
     }
@@ -51,4 +49,8 @@ $section-headings-color: #009361;
     @include small {
       padding: 1rem 1rem;
     }
-}
+   }
+
+  hr.groen {
+  border: 1 px solid #009361}
+
