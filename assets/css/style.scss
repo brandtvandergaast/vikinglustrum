@@ -20,3 +20,19 @@ $section-headings-color: #009361;
     // background-color: #000000;
     border-color: #000000;
   }
+
+   .page-header {
+   @include large {
+    max-width: 64rem;
+    padding: 2rem 6rem;
+	margin: 0 auto;
+  }
+
+  @include medium {
+    padding: 2rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
+  }
