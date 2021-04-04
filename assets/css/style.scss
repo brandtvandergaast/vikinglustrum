@@ -22,7 +22,7 @@ $section-headings-color: #009361;
   }
 
    .video-header {
-    border-color: #009361;
+    border: 1px solid #009361;
 	   
    @include large {
     max-width: 64rem;
@@ -40,7 +40,7 @@ $section-headings-color: #009361;
   }
 
   .page-header {
-    border-color: #009361;
+    border: 1px solid #009361;
 	  
     @include large {
       padding: 3rem 6rem;
