@@ -36,3 +36,17 @@ $section-headings-color: #009361;
     padding: 0rem 1rem;
   }
   }
+
+  .page-header {
+    @include large {
+      padding: 2.5rem 6rem;
+    }
+
+    @include medium {
+      padding: 1.5rem 4rem;
+    }
+
+    @include small {
+      padding: 1rem 1rem;
+    }
+}
