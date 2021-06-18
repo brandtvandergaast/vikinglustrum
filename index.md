@@ -1,6 +1,17 @@
 
 ## Nieuws
 
+De opening van de 115de Dies Natalis van URV Viking zal op 25 juli worden gevierd met een borrel en een speciale _experience_, namelijk stand-up paddleboarding!
+Lijkt het je leuk om eens te 'suppen' op het Merwedekanaal? We hebben ervaren paddleboardinstructeurs ingeschakeld om de sup-vaardigheden van Vikingers wat bij te spijkeren.
+
+Geef je op voor een middag sup-instructie, onder het genot van een drankje. Het suppen inclusief borrel begint vanaf 15:00 uur ’s middags.
+
+Opgeven kan via e-captain. Laat ons weten of je komt suppen, of borrelen, of allebei. https://viking-site.e-captain.nl/
+
+![plaatje supper](sup.png)
+
+## Roeikleding
+
 De speciale lustrumroeikleding is ondertussen te bestellen bij Roeigoed. Klik op de Roeipak-link hierboven om te zien hoe je kunt bestellen. Hoe deze kleding eruitziet? Bekijk deze video voor een voorproefje:
 
 <video width="100%" controls playsinline>
