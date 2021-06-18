@@ -6,7 +6,7 @@ Lijkt het je leuk om eens te 'suppen' op het Merwedekanaal? We hebben ervaren pa
 
 Geef je op voor een middag sup-instructie, onder het genot van een drankje. Het suppen inclusief borrel begint vanaf 15:00 uur ’s middags.
 
-Opgeven kan via e-captain. Laat ons weten of je komt suppen, of borrelen, of allebei. https://viking-site.e-captain.nl/
+Opgeven kan via [e-captain](https://viking-site.e-captain.nl/). Laat ons weten of je komt suppen, of borrelen, of allebei. 
 
 ![plaatje supper](sup.jpg)
 
