@@ -5,24 +5,20 @@ description: kalender
 
 ## Kalender
 
-Vanaf 27 juli 2021 barst het Viking lustrumjaar los! Verwacht een jaar tjokvol met feesten, wedstrijden, evenementen, reünies, tochten, en andere bezigheden in en op het water. Zie hieronder de voorlopige concept-kalender. Wijzigingen voorbehouden!
+Op 25 juli 2021 barst het Viking lustrumjaar los! Verwacht een jaar met feesten, wedstrijden, evenementen, reünies, tochten, en andere bezigheden in en op het water. Zie hieronder de voorlopige kalender. Voor de meeste activiteiten geldt dat je je moet opgeven als je wilt meedoen, dus houd de aankondigingen in de gaten! 
 
-| Maand | Activiteiten |
+| Tijdstip | Activiteit |
 | --------------- | --------------- | 
-| Juli | Dies Natalis <br /> Viking jeugdkamp |
-| Augustus | Suppen op Merwedekanaal | 
-| September | Coastal roeien <br /> 4 Sept: Oudledendag |
-| October | Open dag/Utrecht & roeien | 
-| November | Lustrumfeest (13 nov) | 
-| December | Lustrumbumping 1 | 
-| Januari | Lustrumbumping 2 <br /> Nieuwjaarsreceptie |
-| Februari | Lustrumbumping 3 |
-| Maart | Gezinsroeien | 
-| April | Hart van Holland roeimarathon | 
-| Mei | Kerkebootroeien <br /> Singel-puzzeltocht |
-| Juni | Eind-BBQ <br /> Vlootschouw | 
+| 25 Juli 2021 | Opening lustrumjaar met standup paddleboarding en borrel. Vanaf 15:00. |
+| Augustus 2021 | Viking jeugdkamp | 
+| 4 September 2021 | Oudledendag |
+| September 2021 | Roeien in een drakenboot | 
+| 9 Oktober 2021 | Coastal roeien in Muiden. Vanaf 15:00 | 
+| 13 November 2021 | Lustrumfeest in het Spootwegmuseum |
+| December 2021 | Bumping #1, lustrumeditie | 
 
-![plaatje kalender](concept-kalender.png)
+Aan deze kalender zullen diverse activiteiten worden toegevoegd, dus stay tuned!
+
 
 
 
