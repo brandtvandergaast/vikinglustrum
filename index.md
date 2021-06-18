@@ -8,7 +8,7 @@ Geef je op voor een middag sup-instructie, onder het genot van een drankje. Het 
 
 Opgeven kan via e-captain. Laat ons weten of je komt suppen, of borrelen, of allebei. https://viking-site.e-captain.nl/
 
-![plaatje supper](sup.png)
+![plaatje supper](sup.jpg)
 
 ## Roeikleding
 
