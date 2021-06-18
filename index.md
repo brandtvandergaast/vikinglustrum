@@ -11,7 +11,9 @@ De speciale lustrumroeikleding is ondertussen te bestellen bij Roeigoed. Klik op
 
 ## Welkom!
 
-Welkom op de lustrumwebsite van URV Viking! Hier vindt u informatie over speciale happenings die plaats zullen vinden in dit speciale jubileumjaar, 2021. URV Viking bestaat op 27 juli maar liefst honderdvijftien jaar! Dat verdient een pluim en daarom pakken we vanaf 27 juli groots uit!
+<span style="background-color:#00953B; color:#ffffff"> Deze tekst is wit</span>
+
+Welkom op de lustrumwebsite van URV Viking! Hier vindt u informatie over speciale happenings die plaats zullen vinden in dit speciale jubileumjaar, 2021. URV Viking bestaat op 27 juli maar liefst honderdvijftien jaar! Dat verdient een pluim en daarom pakken we vanaf 25 juli groots uit!
 
 Stay tuned!
 
