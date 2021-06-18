@@ -4,7 +4,7 @@
 $header-heading-color: #fff !default;
 $header-bg-color: #fafafa;
 $header-bg-color-secondary: #ececec;
-$section-headings-color: #009361;
+$section-headings-color: #00953B;
 
 @import "{{ site.theme }}";
 
@@ -39,7 +39,7 @@ $section-headings-color: #009361;
   }
 
   .page-header {
-    border: 1px solid #009361;
+    border: 1px solid #00953B;
 	  
     @include large {
       padding: 3rem 6rem;
