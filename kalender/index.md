@@ -14,7 +14,7 @@ Op 25 juli 2021 barst het Viking lustrumjaar los! Verwacht een jaar met feesten,
 | 4 September 2021 | Oudledendag |
 | September 2021 | Roeien in een drakenboot | 
 | 9 Oktober 2021 | Coastal roeien in Muiden. Vanaf 15:00 | 
-| 13 November 2021 | Lustrumfeest in het Spootwegmuseum |
+| 13 November 2021 | Lustrumfeest in het Spoorwegmuseum |
 | December 2021 | Bumping #1, lustrumeditie | 
 
 Aan deze kalender zullen diverse activiteiten worden toegevoegd, dus stay tuned!

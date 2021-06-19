@@ -4,7 +4,7 @@
 De opening van de 115de Dies Natalis van URV Viking zal op 25 juli worden gevierd met een borrel en een speciale _experience_, namelijk stand-up paddleboarding!
 Lijkt het je leuk om eens te 'suppen' op het Merwedekanaal? We hebben ervaren paddleboardinstructeurs ingeschakeld om de sup-vaardigheden van Vikingers wat bij te spijkeren.
 
-Geef je op voor een middag sup-instructie, onder het genot van een drankje. Het suppen inclusief borrel begint vanaf 15:00 uur ’s middags.
+Geef je op voor een middag sup-instructie, onder het genot van een drankje. Het suppen begint om 15:00 uur ’s middags en de borrel om 16:30.
 
 Opgeven kan via [e-captain](https://viking-site.e-captain.nl/). Laat ons weten of je komt suppen, of borrelen, of allebei. 
 
