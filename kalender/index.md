@@ -10,7 +10,7 @@ Op 25 juli 2021 barst het Viking lustrumjaar los! Verwacht een jaar met feesten,
 | Tijdstip | Activiteit |
 | --------------- | --------------- | 
 | 25 Juli 2021 | Opening lustrumjaar met standup paddleboarding (vanaf 15:00) en borrel (vanaf 16:30). |
-| Augustus 2021 | Viking jeugdkamp | 
+| vanaf 17 juli 2021 | Viking jeugdkamp | 
 | 28 augustus 2021 | Roeien in een drakenboot met de Montfoort Dragons |
 | 4 September 2021 | Oudledendag |
 | 9 Oktober 2021 | Coastal roeien in Muiden. Vanaf 15:00 | 
