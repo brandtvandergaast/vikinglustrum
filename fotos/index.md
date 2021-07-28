@@ -9,7 +9,7 @@ Zondag 25 juli jongstleden vond de opening van het lustrumjaar plaats met een fa
 
 [![](lustrum_25juli_groepsfoto.JPG)](lustrum_25juli_groepsfoto.JPG)
 
-![](lustrum_25juli_steven_nieske.JPG)](lustrum_25juli_steven_nieske.JPG)
+[![](lustrum_25juli_steven_nieske.JPG)](lustrum_25juli_steven_nieske.JPG)
 
 
 
