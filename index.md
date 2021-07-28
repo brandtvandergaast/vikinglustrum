@@ -1,5 +1,8 @@
+## Laatste Nieuws
 
-## Nieuws
+[Check de foto's van de opening van het lustrumjaar!](https://vikinglustrum.nl/fotos/)
+
+## Suppen
 
 De opening van de 115de Dies Natalis van URV Viking zal op 25 juli worden gevierd met een borrel en een speciale _experience_, namelijk stand-up paddleboarding!
 Lijkt het je leuk om eens te 'suppen' op het Merwedekanaal? We hebben ervaren paddleboardinstructeurs ingeschakeld om de sup-vaardigheden van Vikingers wat bij te spijkeren.
