@@ -1,6 +1,6 @@
 ## Laatste Nieuws
 
-[Check de foto's van de opening van het lustrumjaar!](https://vikinglustrum.nl/fotos/)
+Neem een kijkje bij de foto's van [de opening van het lustrumjaar!](https://vikinglustrum.nl/fotos/)
 
 ## Suppen
 
