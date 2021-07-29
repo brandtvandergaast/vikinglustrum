@@ -4,7 +4,7 @@ Neem een kijkje bij de foto's van [de opening van het lustrumjaar!](https://viki
 
 ## In een drakenboot varen
 
-Sluit je vakantie af met drakenboot varen in Montfoort op 28 augustus! Drakenboten zijn open kano's waar je met zijn twintigen in zit. Je peddelt twee aan twee, terwijl een drummer het ritme van de slag aangeeft. Dit wordt een _experience_ die je niet snel zult vergeten. We gaan dit doen in het mooie dorpje Montfoort (op fietsafstand, dus).  Geef je op via [e-captain](https://viking-site.e-captain.nl/)!
+Sluit je vakantie af met drakenboot varen in Montfoort op 28 augustus! Drakenboten zijn open kano's waar je met zijn twintigen in zit. Je peddelt twee aan twee, terwijl een drummer het ritme van de slag aangeeft. Dit wordt een _experience_ die je niet snel zult vergeten. We gaan dit doen in het mooie dorpje Montfoort (op fietsafstand, dus).  We beginnen om 10 uur 's ochtends. Geef je op via [e-captain](https://viking-site.e-captain.nl/)!
 
 ![plaatje drakenboot](drakenboot.JPG)
 
