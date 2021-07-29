@@ -2,6 +2,10 @@
 
 Neem een kijkje bij de foto's van [de opening van het lustrumjaar!](https://vikinglustrum.nl/fotos/)
 
+## In een drakenboot varen
+
+Sluit je vakantie af met drakenboot varen in Montfoort op 28 augustus! Geef je op via [e-captain](https://viking-site.e-captain.nl/). Drakenboten zijn open kano's waar je met zijn twintigen in zit. Je peddelt twee aan twee, terwijl een drummer het ritme van de slag aangeeft. Dit wordt een _experience_ die je niet snel zult vergeten. We aan dit doen in Montfoort (op fietsafstand, dus)!  
+
 ## Suppen
 
 De opening van de 115de Dies Natalis van URV Viking zal op 25 juli worden gevierd met een borrel en een speciale _experience_, namelijk stand-up paddleboarding!
