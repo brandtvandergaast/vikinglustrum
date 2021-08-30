@@ -5,7 +5,7 @@ description: foto's
 
 ## Drakenbootvaren, 28 augustus 2021
 
-Enkele dappere Vikingers waagden zich aan drakenbootvaren in Montfoort, afgelopen zaterdag! Na een hartelijk ontvangst door de Montfoort Dragons ontvingen de roeiers instructie. Toen kozen ze het ruime sop, onder begeleiding van een drumster en een stuurman. Klik op de foto's voor grotere versies.
+Enkele dappere Vikingers waagden zich aan drakenbootvaren in Montfoort, afgelopen zaterdag! Na een hartelijk ontvangst door de Montfoort Dragons ontvingen de roeiers instructie. Toen kozen ze het ruime sop, onder begeleiding van een drumster en een stuurman.
 
 [![](drakenboot1.jpg)](drakenboot1.jpg)
 [![](drakenboot2.jpg)](drakenboot2.jpg)
