@@ -3,6 +3,17 @@ layout: default
 description: foto's
 ---
 
+## Drakenbootvaren, 28 augustus 2021
+
+Enkele dappere Vikingers waagden zich aan drakenbootvaren in Montfoort, afgelopen zaterdag! Na een hartelijk ontvangst door de Montfoort Dragons ontvingen de roeiers instructie. Toen kozen ze het ruime sop, onder begeleiding van een drumster en een stuurman. Klik op de foto's voor grotere versies.
+
+[![](drakenboot1.jpg)](drakenboot1.jpg)
+[![](drakenboot2.jpg)](drakenboot2.jpg)
+[![](drakenboot3.jpg)](drakenboot3.jpg)
+[![](drakenboot4.jpg)](drakenboot4.jpg)
+[![](drakenboot5.jpg)](drakenboot5.jpg)
+[![](drakenboot6.jpg)](drakenboot6.jpg)
+
 ## Suppen, 25 juli 2021
 
 Zondag 25 juli j.l. vond de opening van het lustrumjaar plaats met een fantastische <em>stand-up-paddle experience</em> en een borrel met zomerse bubbelwijnen! Twee Vikingers haalden een nat pak bij het suppen. De rest haalde een nat pak bij de daaropvolgende wolkbreuk. De bubbels vonden gretig aftrek, vooral de alcohol~~vrije~~ -houdende wijnen deden het goed! 
