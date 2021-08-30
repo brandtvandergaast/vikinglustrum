@@ -8,7 +8,7 @@ Ondertussen is het programma voor de oudledendag bekend gemaakt. Het is als volg
 | 15.00 uur | varen dubbelacht |
 | 17.30 uur | buffet |
 
-Daarnaast is er ook nog een fotoshow over 115 jaar Viking en een demonstratie van oude boten. Net als jullie zien we erg uit naar dit evenement! Voor meer informatie, ga naar de [facebookgroep] (https://www.facebook.com/groups/1443347109235746) voor de oudledendag. 
+Daarnaast is er ook nog een fotoshow over 115 jaar Viking en een demonstratie van oude boten. Net als jullie zien we erg uit naar dit evenement! Voor meer informatie, ga naar de [facebookgroep](https://www.facebook.com/groups/1443347109235746) voor de oudledendag. 
 
 ## Foto's drakenboot varen
 
@@ -16,9 +16,9 @@ Check deze gave actiefoto, genomen voor Vikingers die in Montfoort gingen draken
 
 ![plaatje drakenboot](drakenboot.png)
 
-## Laatste Nieuws
+## Foto's opening lustrumjaar
 
-Neem een kijkje bij de foto's van [de opening van het lustrumjaar!](https://vikinglustrum.nl/fotos/)
+Neem een kijkje bij de foto's van [de opening van het lustrumjaar] (https://vikinglustrum.nl/fotos/) dat plaatsvond op 25 juli.
 
 ## In een drakenboot varen
 
