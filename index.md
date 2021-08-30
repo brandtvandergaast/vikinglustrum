@@ -1,3 +1,21 @@
+## Programma oudledendag
+
+Ondertussen is het programma voor de oudledendag bekend gemaakt. Het is als volgt:
+
+| 11.00 uur | rondje Singel door een aantal oud-leden |
+| 13.30 uur | inloop gasten |
+| 14.00 uur | opening en aansluitend botendoop |
+| 15.00 uur | varen dubbelacht |
+| 17.30 uur | buffet |
+
+Daarnaast is er ook nog een fotoshow over 115 jaar Viking en een demonstratie van oude boten. Net als jullie zien we erg uit naar dit evenement! Voor meer informatie, ga naar de [facebookgroep] (https://www.facebook.com/groups/1443347109235746) voor de oudledendag. 
+
+## Foto's drakenboot varen
+
+Check deze gave actiefoto, genomen voor Vikingers die in Montfoort gingen drakenbootvaren! Lees de komende Viking Nieuws voor een uitgebreid verslag.
+
+![plaatje drakenboot](drakenboot.png)
+
 ## Laatste Nieuws
 
 Neem een kijkje bij de foto's van [de opening van het lustrumjaar!](https://vikinglustrum.nl/fotos/)
