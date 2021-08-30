@@ -1,6 +1,6 @@
 ## Programma oudledendag
 
-Ondertussen is het programma voor de oudledendag bekend gemaakt. Het is als volgt:
+Ondertussen is het programma voor de oudledendag van 4 september aanstaande bekend gemaakt.  Opgeven is helaas niet meer mogelijk. Het programma ziet er als volgt uit:
 
 | 11.00 uur | rondje Singel door een aantal oud-leden |
 | 13.30 uur | inloop gasten |
