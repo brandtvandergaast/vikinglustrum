@@ -12,13 +12,13 @@ Daarnaast is er ook nog een fotoshow over 115 jaar Viking en een demonstratie va
 
 ## Foto's drakenboot varen
 
-Klik [hier](https://vikinglustrum.nl/fotos/) om de foto's van het drakenbootvaren te zien! 
+Klik [hier](https://vikinglustrum.nl/fotos/#drakenbootvaren-28-augustus-2021) om de foto's van het drakenbootvaren te zien! 
 
 ![plaatje drakenboot](drakenboot.png)
 
 ## Foto's opening lustrumjaar
 
-Neem een kijkje bij de foto's van [de opening van het lustrumjaar](https://vikinglustrum.nl/fotos/) dat plaatsvond op 25 juli.
+Neem een kijkje bij de foto's van [de opening van het lustrumjaar](https://vikinglustrum.nl/fotos/#suppen-25-juli-2021) dat plaatsvond op 25 juli.
 
 ## In een drakenboot varen
 
