@@ -1,6 +1,6 @@
 ## Coastal roeien
 
-Benieuwd hoe het is om te roeien op water met wat golven? Wil je wel eens wat anders dan het spiegelvlakke Merwedekanaal? Geef je dan op voor coastal roeien in Muiden. We verzamelen om 15:00 uur bij de KNZRV in Muiden. Na afloop kan er op locatie geborreld en gegeten worden. Schrijf je in via e-captain (er zijn geen kosten aan verbonden).
+Benieuwd hoe het is om te roeien op water met wat golven? Wil je wel eens wat anders dan het spiegelvlakke Merwedekanaal? Geef je dan op voor coastal roeien in Muiden. Dit gebeurt op 9 oktober en we verzamelen om 15:00 uur bij de KNZRV in Muiden. Na afloop kan er op locatie geborreld en gegeten worden. Schrijf je in via e-captain (er zijn geen kosten aan verbonden).
 
 ![plaatje coastal](coastal.PNG)
 
@@ -10,7 +10,7 @@ Klik [hier](https://vikinglustrum.nl/fotos/#oudledendag-4-september-2021) voor e
 
 ## Foto's drakenboot varen
 
-Klik [hier](https://vikinglustrum.nl/fotos/#drakenbootvaren-28-augustus-2021) om de foto's van het drakenbootvaren te zien!
+Klik [hier](https://vikinglustrum.nl/fotos/#drakenbootvaren-28-augustus-2021) om de foto's van het drakenbootvaren op 28 augustus te zien!
 
 ![plaatje drakenboot](drakenboot.png)
 
