@@ -2,7 +2,7 @@
 
 Benieuwd hoe het is om te roeien op water met wat golven? Wil je wel eens wat anders dan het spiegelvlakke Merwedekanaal? Geef je dan op voor coastal roeien in Muiden. We verzamelen om 15:00 uur bij de KNZRV in Muiden. Na afloop kan er op locatie geborreld en gegeten worden. Schrijf je in via e-captain (er zijn geen kosten aan verbonden).
 
-![plaatje coastal](coastal.png)
+![plaatje coastal](coastal.PNG)
 
 ## Foto's oudledendag 
 
