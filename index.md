@@ -1,41 +1,22 @@
-## Programma oudledendag
+## Coastal roeien
 
-Ondertussen is het programma voor de oudledendag van 4 september aanstaande bekend gemaakt.  Opgeven is helaas niet meer mogelijk. Het programma ziet er als volgt uit:
+Benieuwd hoe het is om te roeien op water met wat golven? Wil je wel eens wat anders dan het spiegelvlakke Merwedekanaal? Geef je dan op voor coastal roeien in Muiden. We verzamelen om 15:00 uur bij de KNZRV in Muiden. Na afloop kan er op locatie geborreld en gegeten worden. Schrijf je in via e-captain (er zijn geen kosten aan verbonden).
 
-| 11.00 uur | rondje Singel door een aantal oud-leden |
-| 13.30 uur | inloop gasten |
-| 14.00 uur | opening en aansluitend botendoop |
-| 15.00 uur | varen dubbelacht |
-| 17.30 uur | buffet |
+![plaatje coastal](coastal.png)
 
-Daarnaast is er ook nog een fotoshow over 115 jaar Viking en een demonstratie van oude boten. Net als jullie zien we erg uit naar dit evenement! Voor meer informatie, ga naar de [facebookgroep](https://www.facebook.com/groups/1443347109235746) voor de oudledendag. 
+## Foto's oudledendag 
+
+Klik [hier](https://vikinglustrum.nl/fotos/#oudledendag-4-september-2021) voor een korte beschrijving van de zeer geslaagde oudledendag van 4 september! 
 
 ## Foto's drakenboot varen
 
-Klik [hier](https://vikinglustrum.nl/fotos/#drakenbootvaren-28-augustus-2021) om de foto's van het drakenbootvaren te zien! 
+Klik [hier](https://vikinglustrum.nl/fotos/#drakenbootvaren-28-augustus-2021) om de foto's van het drakenbootvaren te zien!
 
 ![plaatje drakenboot](drakenboot.png)
 
 ## Foto's opening lustrumjaar
 
 Neem een kijkje bij de foto's van [de opening van het lustrumjaar](https://vikinglustrum.nl/fotos/#suppen-25-juli-2021) dat plaatsvond op 25 juli.
-
-## In een drakenboot varen
-
-Sluit je vakantie af met drakenboot varen in Montfoort op 28 augustus! Drakenboten zijn open kano's waar je met zijn twintigen in zit. Je peddelt twee aan twee, terwijl een drummer het ritme van de slag aangeeft. Dit wordt een _experience_ die je niet snel zult vergeten. We gaan dit doen in het mooie dorpje Montfoort (op fietsafstand, dus).  We beginnen om 10 uur 's ochtends. Geef je op via [e-captain](https://viking-site.e-captain.nl/)!
-
-![plaatje drakenboot](drakenboot.JPG)
-
-## Suppen
-
-De opening van de 115de Dies Natalis van URV Viking zal op 25 juli worden gevierd met een borrel en een speciale _experience_, namelijk stand-up paddleboarding!
-Lijkt het je leuk om eens te 'suppen' op het Merwedekanaal? We hebben ervaren paddleboardinstructeurs ingeschakeld om de sup-vaardigheden van Vikingers wat bij te spijkeren.
-
-Geef je op voor een middag sup-instructie, onder het genot van een drankje. Het suppen begint om 15:00 uur ’s middags en de borrel om 16:30.
-
-Opgeven kan via [e-captain](https://viking-site.e-captain.nl/). Laat ons weten of je komt suppen, of borrelen, of allebei. 
-
-![plaatje supper](sup.jpg)
 
 ## Roeikleding
 

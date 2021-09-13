@@ -2,6 +2,11 @@
 layout: default
 description: foto's
 ---
+## Oudledendag, 4 september 2021
+
+Het weer was prachtig, de opkomst hoog, het eten lekker, en het terras gezellig! Dank aan alle bezoekers en vrijwiligers voor een geslaagd evenement. Voor meer foto's en informatie over de oudledengroep van Viking, ga naar de [facebookgroep](https://www.facebook.com/groups/1443347109235746).
+
+[![](oudledendagfoto.jpg)](oudledendagfoto.jpg)
 
 ## Drakenbootvaren, 28 augustus 2021
 
