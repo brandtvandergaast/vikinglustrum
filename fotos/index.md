@@ -4,18 +4,18 @@ description: foto's
 ---
 ## Oudledendag, 4 september 2021
 
-Het weer was prachtig, de opkomst hoog, het eten lekker, en het terras gezellig! Dank aan alle bezoekers en vrijwiligers voor een geslaagd evenement. Voor meer foto's en informatie over de oudledengroep van Viking, ga naar de [facebookgroep](https://www.facebook.com/groups/1443347109235746).
+Het weer was prachtig, de opkomst hoog, het eten lekker, en het terras gezellig! Dank aan alle bezoekers en vrijwiligers voor een geslaagd evenement. Voor herhaling vatbaar! Voor meer foto's en informatie over de oudledengroep van Viking, ga naar de [facebookgroep](https://www.facebook.com/groups/1443347109235746).
 
 [![](oudledendagfoto.jpg)](oudledendagfoto.jpg)
+[![](oudledendag2.jpg)](oudledendag2.jpg)
+[![](oudledendag3.jpg)](oudledendag3.jpg)
+
 
 ## Drakenbootvaren, 28 augustus 2021
 
 Enkele dappere Vikingers waagden zich aan drakenbootvaren in Montfoort, afgelopen zaterdag! Na een hartelijk ontvangst door de Montfoort Dragons ontvingen de roeiers instructie. Toen kozen ze het ruime sop, onder begeleiding van een drumster en een stuurman.
 
-[![](drakenboot1.jpg)](drakenboot1.jpg)
 [![](drakenboot2.jpg)](drakenboot2.jpg)
-[![](drakenboot3.jpg)](drakenboot3.jpg)
-[![](drakenboot4.jpg)](drakenboot4.jpg)
 [![](drakenboot5.jpg)](drakenboot5.jpg)
 [![](drakenboot6.jpg)](drakenboot6.jpg)
 
