@@ -1,6 +1,6 @@
-## Welkom op de website van het Viking Lustrum!
+## 115 jaar Viking!
 
-Neem een kijkje op deze site voor alle geplande--en reeds gevierde--feestelijkheden in het kader van het 115de jaar van URV Viking! 
+Neem een kijkje op deze site voor alle feestelijkheden in het kader van het 115de jaar van UR Viking! 
 
 ## Coastal roeien
 
