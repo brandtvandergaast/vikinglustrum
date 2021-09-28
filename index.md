@@ -1,6 +1,6 @@
-## 115 jaar Viking!
+## Welkom bij 115 jaar Viking!
 
-Neem een kijkje op deze site voor alle feestelijkheden in het kader van het 115de jaar van UR Viking! 
+Neem een kijkje op deze site voor alle feestelijkheden in het kader van het 115de jaar van URV Viking! 
 
 ## Coastal roeien
 
