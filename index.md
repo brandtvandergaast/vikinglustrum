@@ -1,3 +1,7 @@
+## Welkom op de website van het Viking Lustrum!
+
+Neem een kijkje op deze site voor alle geplande--en reeds gevierde--feestelijkheden in het kader van het 115de jaar van URV Viking! 
+
 ## Coastal roeien
 
 Benieuwd hoe het is om te roeien op water met wat golven? Wil je wel eens wat anders dan het spiegelvlakke Merwedekanaal? Geef je dan op voor coastal roeien in Muiden. Dit gebeurt op 9 oktober en we verzamelen om 15:00 uur bij de KNZRV in Muiden. Na afloop kan er op locatie geborreld en gegeten worden. Schrijf je in via e-captain (er zijn geen kosten aan verbonden).
