@@ -6,7 +6,7 @@ Neem een kijkje op deze site voor alle feestelijkheden in het kader van het 115d
 
 Save the date! Schrijf 13 november alvast maar in je agenda, want er staat een feest van jawelste aan te komen! 
 
-![lustrumposter](feest_poster.png)
+![lustrumposter](feest_poster.PNG)
 
 ## [VOL!] Coastal roeien [VOL!]
 
