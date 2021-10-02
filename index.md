@@ -2,7 +2,13 @@
 
 Neem een kijkje op deze site voor alle feestelijkheden in het kader van het 115de jaar van URV Viking! 
 
-## Coastal roeien
+## Lustrumfeest!
+
+Save the date! Schrijf 13 november alvast maar in je agenda, want er staat een feest van jawelste aan te komen! 
+
+![lustrumposter](feest_poster.png)
+
+## [VOL!] Coastal roeien [VOL!]
 
 Benieuwd hoe het is om te roeien op water met wat golven? Wil je wel eens wat anders dan het spiegelvlakke Merwedekanaal? Geef je dan op voor coastal roeien in Muiden. Dit gebeurt op 9 oktober en we verzamelen om 15:00 uur bij de KNZRV in Muiden. Na afloop kan er op locatie geborreld en gegeten worden. Schrijf je in via e-captain (er zijn geen kosten aan verbonden).
 
@@ -34,7 +40,7 @@ De speciale lustrumroeikleding is ondertussen te bestellen bij Roeigoed. Klik op
 
 ## Welkom!
 
-Welkom op de lustrumwebsite van URV Viking! Hier vindt u informatie over speciale happenings die plaats zullen vinden in dit speciale jubileumjaar, 2021. URV Viking bestaat op 27 juli maar liefst honderdvijftien jaar! Dat verdient een pluim en daarom pakken we vanaf 25 juli groots uit!
+Welkom op de lustrumwebsite van URV Viking! Hier vindt je informatie over speciale happenings die plaats zullen vinden in dit speciale jubileumjaar, 2021. URV Viking bestaat op 27 juli maar liefst honderdvijftien jaar! Dat verdient een pluim en daarom pakken we vanaf 25 juli groots uit!
 
 Stay tuned!
 
