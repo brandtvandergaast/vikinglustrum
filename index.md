@@ -4,7 +4,7 @@ Neem een kijkje op deze site voor alle feestelijkheden in het kader van het 115d
 
 ## Lustrumfeest!
 
-Save the date! Schrijf 13 november alvast maar in je agenda, want er staat een feest van jawelste aan te komen! 
+Save the date! Schrijf 13 november alvast maar in je agenda, want er staat een feest van jawelste aan te komen! Schrijf je in via [deze link in e-captain ](https://viking-site.e-captain.nl/activiteiten/4621/lustrumfeest) en koop je kaart aan de bar in het Walhalla! Tot in het Spoorwegmuseum!
 
 ![lustrumposter](feest_poster.PNG)
 
