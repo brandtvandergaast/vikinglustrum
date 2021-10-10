@@ -8,7 +8,7 @@ Save the date! Schrijf 13 november alvast maar in je agenda, want er staat een f
 
 ![lustrumposter](feest_poster.PNG)
 
-## [VOL!] Coastal roeien [VOL!]
+## Foto's coastal roeien 
 
 Bekijk enkele sfeerbeelden van het coastal roeien in Muiden door [hier](https://vikinglustrum.nl/fotos/#coastal-roeien-9-october-2021) te klikken. Al weer een geslaagde Viking Experience!
 
