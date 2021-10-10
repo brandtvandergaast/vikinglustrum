@@ -10,9 +10,7 @@ Save the date! Schrijf 13 november alvast maar in je agenda, want er staat een f
 
 ## [VOL!] Coastal roeien [VOL!]
 
-Benieuwd hoe het is om te roeien op water met wat golven? Wil je wel eens wat anders dan het spiegelvlakke Merwedekanaal? Geef je dan op voor coastal roeien in Muiden. Dit gebeurt op 9 oktober en we verzamelen om 15:00 uur bij de KNZRV in Muiden. Na afloop kan er op locatie geborreld en gegeten worden. Schrijf je in via e-captain (er zijn geen kosten aan verbonden).
-
-![plaatje coastal](coastal.PNG)
+Bekijk enkele sfeerbeelden van het coastal roeien in Muiden door [hier](https://vikinglustrum.nl/fotos/#coastal-roeien-9-october-2021) te klikken. Al weer een geslaagde Viking Experience!
 
 ## Foto's oudledendag 
 

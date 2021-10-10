@@ -2,6 +2,13 @@
 layout: default
 description: foto's
 ---
+## Coastal roeien, 9 october 2021
+
+Volgens de 16 dappere Vikingers die zich aan het 'coastal rowing' waagden waren de golven op het Ijsselmeer nogal wat hoger dan die op de Vecht! Het was genieten geblazen voor deze delegatie van Viking. Dank aan de KNZRV in Muiden voor het ontvangst en de instructie!
+
+[![](coastal1.jpg)](coastal2.jpg)
+[![](coastal2.jpg)](coastal2.jpg)
+
 ## Oudledendag, 4 september 2021
 
 Het weer was prachtig, de opkomst hoog, het eten lekker, en het terras gezellig! Dank aan alle bezoekers en vrijwiligers voor een geslaagd evenement. Voor herhaling vatbaar! Voor meer foto's en informatie over de oudledengroep van Viking, ga naar de [facebookgroep](https://www.facebook.com/groups/1443347109235746).
