@@ -1,10 +1,6 @@
 ## Welkom bij 115 jaar Viking!
 
-Neem een kijkje op deze site voor alle feestelijkheden in het kader van het 115de jaar van URV Viking! 
-
-## Geen lustrumfeest!
-
-Helaas is het geplande lustrumfeest afgeblazen in verband met de strengere coronamaatregelen. Dit feest zal worden vooruitgeschoven naar het voorjaar. We zullen je op de hoogte houden over de precieze datum, dus stay tuned!
+Ook in 2022 hebben staan er weer verschillende lustrumactiviteiten op het programma! Wat dacht je van roeien in een kerkboot in Sneek? Of meedoen aan het waterfestijn bij Utrecht 900 jaar? Neem een in het programma en schrijf je in voor de aankomende activiteiten!
 
 ## Foto's coastal roeien 
 
