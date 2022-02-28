@@ -7,7 +7,7 @@ description: kalender
 
 ### Kalender voor 2022
 
-Dit jaar hebben we wederom enkele speciale activiteiten voor jullie in petto? Wat dacht je van roeien in een kerkboot? Of een groot feest in het Spoorwegmuseum! Schrijf je in en doe mee!
+Dit jaar hebben we wederom enkele speciale activiteiten voor jullie in petto! Wat dacht je van roeien in een kerkboot? Of een groot feest in het Spoorwegmuseum! Schrijf je in en doe mee!
 
 | Datum | Activiteit |
 |------|-------|
