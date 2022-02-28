@@ -1,6 +1,6 @@
 ## Welkom bij 115 jaar Viking!
 
-Ook in 2022 staan er weer verschillende lustrumactiviteiten op het programma! Wat dacht je van roeien in een kerkboot in Sneek? Of meedoen aan het waterfestijn bij Utrecht 900 jaar? Neem een in het programma en schrijf je in voor de aankomende activiteiten!
+Ook in 2022 staan er weer verschillende lustrumactiviteiten op het programma! Wat dacht je van roeien in een kerkboot in Sneek? Of meedoen aan het waterfestijn bij Utrecht 900 jaar? Neem een kijkje in het programma en schrijf je in voor de aankomende activiteiten!
 
 ## Foto's coastal roeien 
 
