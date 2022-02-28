@@ -2,11 +2,9 @@
 
 Neem een kijkje op deze site voor alle feestelijkheden in het kader van het 115de jaar van URV Viking! 
 
-## Lustrumfeest!
+## Geen lustrumfeest!
 
-Save the date! Schrijf 13 november alvast maar in je agenda, want er staat een feest van jawelste aan te komen! Schrijf je in via [deze link in e-captain ](https://viking-site.e-captain.nl/activiteiten/4621/lustrumfeest) en koop je kaart aan de bar in het Walhalla! Tot in het Spoorwegmuseum!
-
-![lustrumposter](feest_poster.PNG)
+Helaas is het geplande lustrumfeest afgeblazen in verband met de strengere coronamaatregelen. Dit feest zal worden vooruitgeschoven naar het voorjaar. We zullen je op de hoogte houden over de precieze datum, dus stay tuned!
 
 ## Foto's coastal roeien 
 
