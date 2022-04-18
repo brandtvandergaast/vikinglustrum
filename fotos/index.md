@@ -4,9 +4,13 @@ description: foto's
 ---
 ## Foto's
 [Lustrumfeest](https://vikinglustrum.nl/fotos/#lustrumfeest-2-april-2022)
+
 [Coastal roeien](https://vikinglustrum.nl/fotos/#coastal-roeien-9-october-2021) 
+
 [Oudledendag](https://vikinglustrum.nl/fotos/#oudledendag-4-september-2021)
+
 [Drakenbootvaren](https://vikinglustrum.nl/fotos/#drakenbootvaren-28-augustus-2021)
+
 [de opening van het lustrumjaar](https://vikinglustrum.nl/fotos/#suppen-25-juli-2021)
 
 ## Lustrumfeest, 2 april 2022
