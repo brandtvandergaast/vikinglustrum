@@ -1,30 +1,12 @@
 ## Welkom bij 115 jaar Viking!
 
-Als je de link zoekt om je in te schrijven voor de bierproeverij, klik dan hier: http://tinyurl.com/ms8f6ksc
+Als je de link zoekt om je in te schrijven voor de bierproeverij, klik dan [hier](http://tinyurl.com/ms8f6ksc).
 
-Ook in 2022 staan er weer verschillende lustrumactiviteiten op het programma! Wat dacht je van roeien in eenkerkboot in Sneek? Of meedoen aan het waterfestijn bij Utrecht 900 jaar? Neem een kijkje in het programma en schrijf je in voor de aankomende activiteiten!
+Ook in 2022 staan er weer verschillende lustrumactiviteiten op het programma! Wat dacht je van roeien in een kerkboot in Sneek? Of meedoen aan het waterfestijn bij Utrecht 900 jaar? Neem een kijkje in het programma en schrijf je in voor de aankomende activiteiten!
 
-## Foto's lustrumfeest
+## Foto's 
 
-Klik [hier](https://vikinglustrum.nl/fotos/#lustrumfeest-2-april-2022)  om enkele foto's te zien van het zeer geslaagde lustrumfeest! 
-
-## Foto's coastal roeien 
-
-Bekijk enkele sfeerbeelden van het coastal roeien in Muiden door [hier](https://vikinglustrum.nl/fotos/#coastal-roeien-9-october-2021) te klikken. Al weer een geslaagde Viking Experience!
-
-## Foto's oudledendag 
-
-Klik [hier](https://vikinglustrum.nl/fotos/#oudledendag-4-september-2021) voor een korte beschrijving van de zeer geslaagde oudledendag van 4 september! 
-
-## Foto's drakenboot varen
-
-Klik [hier](https://vikinglustrum.nl/fotos/#drakenbootvaren-28-augustus-2021) om de foto's van het drakenbootvaren op 28 augustus te zien!
-
-![plaatje drakenboot](drakenboot.png)
-
-## Foto's opening lustrumjaar
-
-Neem een kijkje bij de foto's van [de opening van het lustrumjaar](https://vikinglustrum.nl/fotos/#suppen-25-juli-2021) dat plaatsvond op 25 juli.
+Voor foto's van afgelopen evenementen, klik de [Foto's link](https://vikinglustrum.nl/fotos).
 
 ## Roeikleding
 

@@ -2,6 +2,20 @@
 layout: default
 description: foto's
 ---
+## Foto's
+[Lustrumfeest](https://vikinglustrum.nl/fotos/#lustrumfeest-2-april-2022)
+[Coastal roeien](https://vikinglustrum.nl/fotos/#coastal-roeien-9-october-2021) 
+[Oudledendag](https://vikinglustrum.nl/fotos/#oudledendag-4-september-2021)
+[Drakenbootvaren](https://vikinglustrum.nl/fotos/#drakenbootvaren-28-augustus-2021)
+[de opening van het lustrumjaar](https://vikinglustrum.nl/fotos/#suppen-25-juli-2021)
+
+## Lustrumfeest, 2 april 2022
+
+Op 2 april kwamen in het spoorwegmuseum bootladingen met Vikingers feestvieren! Na de afgelasting duurde even voordat het lustrumfeest doorgang kon vinden, maar het was des te spetterender. Prijsuitreikingen, Vikingliederen, teamfoto's in nautische outfits, huldigingen, lekker eten en drinken, een feestband die los ging! Het was memorabel!
+
+[![](lustrumfeest1.jpg)](lustrumfeest1.jpg)
+[![](lustrumfeest2.jpg)](lustrumfeest2.jpg)
+
 ## Coastal roeien, 9 october 2021
 
 Volgens de 16 dappere Vikingers die zich aan het 'coastal rowing' waagden waren de golven op het Ijsselmeer nogal wat hoger dan die op de Vecht! Het was genieten geblazen voor deze delegatie van Viking. Dank aan de KNZRV in Muiden voor het ontvangst en de instructie!
