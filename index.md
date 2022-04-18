@@ -1,6 +1,12 @@
 ## Welkom bij 115 jaar Viking!
 
-Ook in 2022 staan er weer verschillende lustrumactiviteiten op het programma! Wat dacht je van roeien in een kerkboot in Sneek? Of meedoen aan het waterfestijn bij Utrecht 900 jaar? Neem een kijkje in het programma en schrijf je in voor de aankomende activiteiten!
+Als je de link zoekt om je in te schrijven voor de bierproeverij, klik dan hier: http://tinyurl.com/ms8f6ksc
+
+Ook in 2022 staan er weer verschillende lustrumactiviteiten op het programma! Wat dacht je van roeien in eenkerkboot in Sneek? Of meedoen aan het waterfestijn bij Utrecht 900 jaar? Neem een kijkje in het programma en schrijf je in voor de aankomende activiteiten!
+
+## Foto's lustrumfeest
+
+Klik [hier](https://vikinglustrum.nl/fotos/#lustrumfeest-2-april-2022)  om enkele foto's te zien van het zeer geslaagde lustrumfeest! 
 
 ## Foto's coastal roeien 
 
